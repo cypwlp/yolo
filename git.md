@@ -5,10 +5,10 @@ git init
 git add .
 
 # 3. 首次提交
-git commit -m "初始提交：完成PDF转换工具开发"
+git commit -m "Yolov11-Python1.01"
 
 # 4. 添加远程仓库
 git remote add origin https://gitee.com/cypilu/ultralytics-main.git
 
 # 5. 推送代码
-git push -u origin main
+git push -u origin master
