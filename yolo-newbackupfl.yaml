@@ -1,10 +1,10 @@
 # 自定义数据集配置
-path: newbackupfl  # 数据集根目录（无需修改，已正确指向 datasets/zdfl_split）
+path: newbackupfl # 数据集根目录（无需修改，已正确指向 datasets/zdfl_split）
 
 # 训练集、验证集路径（修改为实际的 images 子文件夹路径）
-train: images/train  # 对应实际路径：zdfl_split/images/train
-val: images/val      # 对应实际路径：zdfl_split/images/val
-test:  # 测试集（可选）
+train: images/train # 对应实际路径：zdfl_split/images/train
+val: images/val # 对应实际路径：zdfl_split/images/val
+test: # 测试集（可选）
 
 # 类别名称（保持不变）
 names:
